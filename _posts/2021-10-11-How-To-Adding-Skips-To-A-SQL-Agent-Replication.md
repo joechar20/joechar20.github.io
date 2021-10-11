@@ -1,4 +1,4 @@
-## Adding Skips to a SQL Agent replication distribution job
+## How To: Adding Skips to a SQL Agent replication distribution job
 
 ### This covers a basic example of adding skips to a SQL Server Transactional Replication Distribution job, by editing the job steps. 
 #### Pre-requisites: Familiarity with SQL Server Agent jobs. Monitoring with the SQL Agent Job Activity monitor and editing steps using the job properties.
