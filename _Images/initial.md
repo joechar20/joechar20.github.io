@@ -1,1 +1,1 @@
-
+Folder for all images
