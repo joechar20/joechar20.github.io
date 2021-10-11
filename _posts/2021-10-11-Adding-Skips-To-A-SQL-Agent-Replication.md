@@ -5,7 +5,7 @@
 #### Pre-requisites: Familiarity with SQL Server Agent jobs. Monitoring with the SQL Agent Job Activity monitor and editing steps using the job properties.
 
 Step 1: Identify the job(s) with a category of "REPL-Distibution" using the SQL Agent Job Activity monitor
-![SQL Agent Job Activity Monitor Category](https://github.com/joechar20/joechar20.github.io/blob/main/_Images/ActivityMonitorCategory.png?raw=true)
+![SQL Agent Job Activity Monitor Category](https://github.com/joechar20/joechar20.github.io/blob/main/_Images/2021-10-11/ActivityMonitorCategory.png?raw=true)
 
 Step 2: Open the job properties -> Steps -> (select step) “Run agent.” -> click “Edit”
 ![Replication Distribution Job properties](https://github.com/joechar20/joechar20.github.io/blob/main/_Images/2021-10-11/JobProperties.png?raw=true)
