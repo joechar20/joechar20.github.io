@@ -4,7 +4,8 @@
 #### Pre-requisites: Familiarity with SQL Server Agent jobs. Monitoring with the SQL Agent Job Activity monitor and editing steps using the job properties.
 
 Step 1: Identify the job(s) with a category of "REPL-Distibution" using the SQL Agent Job Activity monitor
-https://imgur.com/a/A6IFIQR
+https://github.com/joechar20/joechar20.github.io/blob/main/_Images/ActivityMonitorCategory.png
+
 ### This is a header
 
 #### Some T-SQL Code
